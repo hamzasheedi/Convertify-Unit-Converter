@@ -27,6 +27,11 @@ from units import (
 
 
 
+#config
+st.set_page_config(page_title="Convertify - Ultimate Unit Converter", page_icon="🔄", layout="wide", initial_sidebar_state="expanded")
+
+
+
 #app
 st.markdown(
     """
